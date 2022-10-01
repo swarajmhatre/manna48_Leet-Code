@@ -1,3 +1,3 @@
 # Leet-Code 
 
-# Everyday Code
+# Everyday Code and Be consistent 
